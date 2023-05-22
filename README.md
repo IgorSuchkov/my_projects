@@ -23,5 +23,5 @@
 |6              |[property_for_sale](property_for_sale/)|233455|`pandas` `seaborn` `numpy` `matplotlib.pyplot`|
 |7              |[startup_selling_food](startup_selling_food/)|233455|`pandas` `matplotlib.pyplot` `numpy` `scipy.stats` `plotly`|
 |8              |[subscription_book_reading_service](subscription_book_reading_service/)|233455|`pandas` `sqlalchemy`|
-|9              |[video_game_store](video_game_store/)|233455|`pandas` `numpy` `seaborn` `matplotlib.pyplot` `scipy`|
+|9              |[video_game_store](video_game_store/)|Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы. Нужно выявить определяющие успешность игры закономерности.|`Python` `проверка статистических гипотез` `SQL` `PostgreSQL` `A/B-тестирование` `описательная статистика` `pandas` `numpy` `seaborn` `matplotlib.pyplot` `scipy`|
 |10              |[Создание дашборда по пользовательским событиям для агрегатора новостей](yandex_dzen_dashboard/)|Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей|`Python` `PostgreSQL` `dash` `Tableau` `построение дашбордов` `продуктовые метрики` `pandas` `sqlalchemy`|
