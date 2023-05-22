@@ -24,4 +24,4 @@
 |7              |[startup_selling_food](startup_selling_food/)|233455|`pandas` `matplotlib.pyplot` `numpy` `scipy.stats` `plotly`|
 |8              |[subscription_book_reading_service](subscription_book_reading_service/)|233455|`pandas` `sqlalchemy`|
 |9              |[video_game_store](video_game_store/)|233455|`pandas` `numpy` `seaborn` `matplotlib.pyplot` `scipy`|
-|10              |[yandex_dzen_dashboard](yandex_dzen_dashboard/)|233455|`pandas` `sqlalchemy`|
+|10              |[Создание дашборда по пользовательским событиям для агрегатора новостей](yandex_dzen_dashboard/)|Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей|`Python` `PostgreSQL` `dash` `Tableau` `построение дашбордов` `продуктовые метрики` `pandas` `sqlalchemy`|
