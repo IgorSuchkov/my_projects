@@ -1,12 +1,12 @@
-# Market of public catering establishments in moscow
+# Рынок предприятий общественного питания в Москве
 
-The investors decided to try their hand at a new area and open a catering establishment in Moscow.
+Инвесторы решили попробовать свои силы в новой сфере и открыть заведение общественного питания в Москве.
 
 # Task
-- prepare a study of the Moscow market
-- find interesting features
-- features of opening a coffee shop
-- present the results obtained, which in the future will help in choosing a suitable place for investors
+- подготовить исследование рынка Москвы
+- найти интересные функции
+- особенности открытия кофейни
+- представить полученные результаты, которые в дальнейшем помогут в выборе подходящего места для инвесторов
 
 # Libraries for work
 - pandas
