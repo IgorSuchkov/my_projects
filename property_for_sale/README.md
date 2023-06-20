@@ -1,9 +1,9 @@
-# Property for sale
-Real estate service data - archive of announcements for several years about the sale of apartments in St. Petersburg and neighboring settlements.
+# Собственность на продажу
+Данные по недвижимости - архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних поселках.
 
 # Task
-- Perform data analysis
-- Find patterns
+- Выполнить анализ данных
+- Найдти закономерности
 
 # Libraries for work
 - pandas
