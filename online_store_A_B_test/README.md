@@ -1,9 +1,9 @@
-# Online store A/B test
-Large online store. Improve store performance. Help the marketing department with the implementation of new ideas.
+# A/B тест интернет-магазина
+Большой интернет-магазин. Улучшить работу магазина. Помочь отделу маркетинга с реализацией новых идей.
 
 # Task
-- Prioritization of hypotheses
-- A/B test analysis
+- Приоритизация гипотез
+- Анализ А/В тестов
 
 # Libraries for work
 - pandas
