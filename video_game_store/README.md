@@ -1,11 +1,11 @@
-# Video game store
-An online store that sells computer games worldwide. Historical data on game sales, user and expert ratings, genres and platforms are available from open sources.
+# Магазин видеоигр
+Интернет-магазин, продающий компьютерные игры по всему миру. Исторические данные о продажах игр, рейтингах пользователей и экспертов, жанрах и платформах доступны из открытых источников.
 
 # Task
-- Perform data analysis
-- Create a user profile
-- Test hypotheses
-- Find the pattern of success.
+- Выполнить анализ данных
+- Создать профиль пользователя
+- Проверка гипотез
+- Найдти модель успеха
 
 # Libraries for work
 - pandas
