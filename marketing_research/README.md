@@ -1,11 +1,12 @@
-# Marketing research
-Despite huge investments in advertising, the company has been losing money for the past few months.
+# Маркетинговое исследование
+
+Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки.
 
 # Task
-- Perform data analysis
-- Conduct marketing research
-- Estimate the return on advertising
-- Help the company grow.
+- Выполнить анализ данных
+- Провести маркетинговое исследование
+- Оценить отдачу от рекламы
+- Помочь компании расти
 
 # Libraries for work
 - pandas
