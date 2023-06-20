@@ -1,14 +1,14 @@
-# Yandex Dzen dashboard
+# Дашборд Яндекс Дзен
 
-The Yandex Zen analyst, who analyzes user interaction with article cards, every week the manager asks the same questions:
-- How many user interactions with cards occur in the system, broken down by card topics?
-- How many cards do sources with different topics generate?
-- How do card themes and source themes relate?
+Аналитик Яндекс Дзен, анализирующий взаимодействие пользователей с карточками статей, каждую неделю задает менеджеру одни и те же вопросы:
+- Сколько взаимодействий пользователей с картами происходит в системе с разбивкой по темам карт?
+- Сколько карточек генерируют источники с разной тематикой?
+- Как соотносятся темы карт и темы источников?
 
 # Task
-- Unload a table from a specially prepared database that is updated once a week.
-- Create dashboard
-- Create a presentation
+- Выгрузить таблицу из специально подготовленной базы данных, которая обновляется раз в неделю.
+- Создать приборную панель
+- Создать презентацию
 
 # Libraries for work
 - pandas
