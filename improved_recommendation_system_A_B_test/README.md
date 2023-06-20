@@ -1,11 +1,11 @@
-# Improved recommendation system A/B test
+# Улучшенная система рекомендаций A/B-тест
 
-Implementation of an improved recommender system
+Внедрение улучшенной рекомендательной системы
 
 # Task
-- Evaluate the correctness of the test
-- Conduct exploratory data analysis
-- Evaluate A/B testing results
+- Оценить правильность теста
+- Проводить предварительный анализ данных
+- Оценить результаты A/B-тестирования
 
 # Libraries for work
 - pandas
