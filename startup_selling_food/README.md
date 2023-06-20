@@ -1,11 +1,11 @@
-# Startup selling food
-A startup that sells food. You need to understand how users of your mobile application behave.
+# Стартап по продаже еды
+Стартап по продаже продуктов питания. Необходимо понять, как ведут себя пользователи мобильного приложения.
 
 # Task
-- Data analysis
-- Sales funnel
-- Explore sales funnels
-- Examine the result of an A/B test
+- Анализ данных
+- Воронка продаж
+- Изучить воронку продаж
+- Изучить результат A/B-тестирования
 
 # Libraries for work
 - pandas
