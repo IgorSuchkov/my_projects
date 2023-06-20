@@ -1,15 +1,15 @@
-# Churn analysis and customer acquisition
+# Анализ оттока и привлечение клиентов
 
-Analyze the customers of a regional bank and highlight the segments of customers who tend to stay in the bank.
+Проанализируйте клиентов регионального банка и выделите сегменты клиентов, которые склонны оставаться в банке.
 
 # Task
 - EDA
-- Research customers by churn
-- Create a client profile
-- Churn Prediction Model
-- Segmentation
-- Hypothesis testing
-
+- Исследование клиентов по оттоку
+- Создать профиль клиента
+- Модель прогнозирования оттока
+- Сегментация
+- Проверка гипотезы
+  
 # Libraries for work
 - pandas
 - matplotlib
