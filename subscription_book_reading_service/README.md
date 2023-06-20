@@ -1,13 +1,13 @@
-# Subscription book reading service
+# Сервис чтения книг по подписке
 
-The company bought a large service for reading books by subscription. The data will help formulate a value proposition for a new product.
+Компания купила крупный сервис для чтения книг по подписке. Эти данные помогут сформулировать ценностное предложение для нового продукта.
 
 # Task
-- Count how many books have been published since January 1, 2000
-- For each book, count the number of reviews and the average rating
-- Determine the publishing house that produced the largest number of books thicker than 50 pages - this way you exclude brochures from the analysis
-- Identify the author with the highest average book rating - consider only books with 50 or more ratings
-- Calculate the average number of reviews from users who have given more than 50 ratings
+- Подсчитайте, сколько книг было издано с 1 января 2000 г.
+- Для каждой книги посчитайте количество отзывов и средний рейтинг
+- Определите издательство, выпустившее наибольшее количество книг толщиной более 50 страниц - так вы исключите из анализа брошюры
+- Определите автора с самым высоким средним рейтингом книги - учитывайте только книги с рейтингом 50 и более.
+- Рассчитать среднее количество отзывов от пользователей, давших более 50 оценок
 
 # Libraries for work
 - pandas
